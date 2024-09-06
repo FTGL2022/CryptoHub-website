@@ -1,0 +1,130 @@
+{
+    "navbar_traduction": {
+    "Home": "Home",
+    "Dashboard": "Dashboard",
+    "Learn":"Learn",
+    "FAQ":"FAQ",
+    "Contact":"Contact",
+    "About":"About"
+  },
+
+   
+    "openSentence": "Your Simplified Solution for Tracking Diverse Currencies",
+
+    "secundaryText": "Market Watchman provides a comprehensive solution to track your balances, trade without restrictions, and earn rewards for selected cryptocurrencies.",
+
+    "aboutUs": "About Us",
+
+    "questionAboutus": "Why would You Choose Market Watchmen?",
+
+    "descriptionUs": "Easy To Learn Platform",
+
+    "descriptionUsTwo": "No need to link your bank accounts. Our goal is to help everyone understand the potential of saving and investing, whether for retirement or short-term goals. We focus on data analytics to make investment insights clearer and more accessible.",
+
+    "tradingPart": "Start your trading with us",
+
+    "tradingPart2": "Market Watchmen has a variety of features that make it the best place to start trading",
+
+    "joinUs": "Join us without the need to link a bank account or supply card information.",
+
+    "title1":"Manage your portfolio",
+    "description1": "We offer support for a wide selection of leading digital currencies.",
+    
+    "title2":"Recurring buys",
+    "description2":"Explore a diverse selection of top digital currencies with our service.",
+
+    "title3":"Mobile apps",
+    "description3":"CryptoHub includes support for a wide selection of top digital currencies.",
+
+    "roadmap":"Roadmap",
+
+    "investingFuture":"How Investing Can Change Your Future",
+
+    "date1":"July 2012",
+    "name1":"Google",
+    "descriptionOne":"Let's say you invested $1,000 right before the 2008 crash and left your money there. Price for Vanguard 500 Index Fund Admiral Shares $143 (VFIAX), highest ever. Dropped to $68 in 2009. Current price $430.52.",
+
+    "date2":"July 2014",
+    "name2":"Apple",
+    "descriptionTwo":"Assume you invested $1,000 in Apple, the stock price has never been higher at this point in time at $9.05. Current price $173.07.",
+
+    "date3":"July 2018",
+    "name3":"Amazon",
+    "descriptionThree":"Assume you invested $1,000 in a Tech Vanguard ETF at a $52 cost (VITAX). Current price $221.94.",
+
+    "date4":"July 2022",
+    "name4":"Bitcoin",
+    "descriptionFour":"Assume you invested $1,000 in Bitcoin. Price for one Bitcoin was $17,098, later it dropped to $3,500 per Bitcoin before bouncing to over $60,000 in 2021. Current price over $42,629.",
+
+    "date5":"July 2012",
+    "name5":"Google",
+    "descriptionFive":"Let's say you invested $1,000 right before the 2008 crash and left your money there. Price for Vanguard 500 Index Fund Admiral Shares $143 (VFIAX), highest ever. Dropped to $68 in 2009. Current price $430.52.",
+
+    "date6":"July 2014",
+    "name6":"Apple",
+    "descriptionSix":"Assume you invested $1,000 in Apple, the stock price has never been higher at this point in time at $9.05. Current price $173.07.",
+
+    "date7":"July 2018",
+    "name7":"Amazon",
+    "descriptionSeven":"Assume you invested $1,000 in a Tech Vanguard ETF at a $52 cost (VITAX). Current price $221.94.",
+
+    "date8":"July 2022",
+    "name8":"Bitcoin",
+    "descriptionEight":"Assume you invested $1,000 in Bitcoin. Price for one Bitcoin was $17,098, later it dropped to $3,500 per Bitcoin before bouncing to over $60,000 in 2021. Current price over $42,629.",
+
+    "newsletter":"Newsletter",
+    "newsletterP":"Get now free 20% discount for all products on your first order",
+
+    "footerTraduction":{
+      "About":"About",
+      "Careers":"Careers",
+      "Affiliates":"Affiliates",
+      "Blog":"Blog",
+      "Press":"Press",
+      "Investors":"Investors",
+      "Legal & Privacy":"Legal & Privacy",
+       "Cookie policy":"Cookie policy",
+       "Cookie preferences":"Cookie preferences"
+    },   
+
+    "footerTraduction2":{
+    "Browse crypto prices":"Browse crypto prices",
+    "Coinbase Bytes newsletter":"Coinbase Bytes newsletter",
+    "Crypto basics":"Crypto basics",
+    "Tips & Tutorials":"Tips & Tutorials",
+    "Market Updates":"Market Updates",
+    "What is Bitcoin?":"What is Bitcoin?",
+    "What is crypto?":"What is crypto?",
+    "What is a blockchain?":"without a blockchain?",
+    "How to set up a crypto wallet":"How to set up a crypto wallet",
+    "How to send crypto":"How to send crypto"
+    },
+
+
+    "privacyPolicy":"Privacy Policy",
+    "termsConditions":"Terms & Conditions",
+
+    "adress":"Test, 123 East 456th Street, 0th Floor, New York, NY 123456",
+    "investement":"Investment made easy",
+
+    "buttons":{
+       "subscribe": "Subscribe",
+       "startEarning":"Start Earning",
+       "tryNow":"Try Now",
+       "howWorks":"How it works?",
+       "signIn":"Sing In",
+       "signUp":"Sing Up"
+    },
+
+    "dailyPrices":{
+      "name":"Name",
+      "price": "Price",
+      "change":"Change",
+      "marketCap":"Market Cap",
+      "chart":"Chart"
+
+    }
+
+  }
+  
+  

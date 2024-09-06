@@ -1,0 +1,124 @@
+{
+    "navbar_traduction": {
+        "Home":"Inicio",
+        "Dashboard":"Tablero",
+        "Learn": "Aprender",
+        "FAQ": "Preguntas",
+        "Contact": "Contacto",
+        "About": "Acerca"
+    },
+
+    "openSentence": "Tu solución simplificada para rastrear diversas monedas",
+
+    "secundaryText": "Market Watchman ofrece una solución integral para rastrear tus saldos, negociar sin restricciones y ganar recompensas por criptomonedas seleccionadas",
+
+    "aboutUs": "Acerca de nosotros",
+
+    "questionAboutus": "¿Por qué deberías elegir Market Watchmen?",
+    
+    "descriptionUs": "Plataforma fácil de aprender",
+
+    "descriptionUsTwo": "No es necesario vincular tus cuentas bancarias. Nuestro objetivo es ayudar a todos a entender el potencial de ahorrar e invertir, ya sea para la jubilación o metas a corto plazo. Nos centramos en el análisis de datos para hacer que las percepciones de inversión sean más claras y accesibles.",
+
+    "tradingPart": "Comienza a negociar con nosotros",
+
+    "tradingPart2": "Market Watchmen tiene una variedad de funcionalidades que lo convierten en el mejor lugar para comenzar a negociar",
+
+    "joinUs": "Únete a nosotros sin necesidad de vincular una cuenta bancaria o proporcionar información de tarjeta",
+
+    "title1": "Gestiona tu portafolio",
+    "description1": "Ofrecemos soporte para una amplia selección de monedas digitales líderes.",
+
+    "title2": "Compras recurrentes",
+    "description2": "Explora una selección diversa de las principales monedas digitales con nuestro servicio.",
+
+    "title3": "Aplicaciones móviles",
+    "description3": "CryptoHub incluye soporte para una amplia selección de las principales monedas digitales.",
+
+    "roadmap": "Hoja de Ruta",
+
+    "investingFuture": "¿Cómo pueden los inversiones cambiar tu futuro?",
+
+    "date1": "Julio 2012",
+    "name1": "Google",
+    "descriptionOne": "Supón que invertiste 1000€ antes de la crisis de 2008 y dejaste tu dinero allí. El precio del Vanguard 500 Index Fund Admiral Shares (VFIAX) estaba en 143€, el más alto de todos los tiempos. Cayó a 68€ en 2009. El precio actual es 430,52€.",
+
+    "date2": "Julio 2024",
+    "name2": "Apple",
+    "descriptionTwo": "Supón que invertiste 1000€ en Apple, cuando el precio de las acciones estaba en su nivel más alto hasta el momento, 9,05€. El precio actual es 173,07€.",
+
+    "date3": "Julio 2018",
+    "name3": "Amazon",
+    "descriptionThree": "Supón que invertiste 1000€ en un ETF Tech Vanguard a un costo de 52€ (VITAX). El precio actual es 221,94€.",
+
+    "date4": "Julio 2022",
+    "name4": "Bitcoin",
+    "descriptionFour": "Supón que invertiste 1000€ en Bitcoin. El precio de un Bitcoin era 17.098€, luego cayó a 3.500€ por Bitcoin antes de subir a más de 60.000€ en 2021. El precio actual está por encima de 42.629€.",
+
+    "date5": "Julio 2012",
+    "name5": "Google",
+    "descriptionFive": "Supón que invertiste 1000€ justo antes de la crisis de 2008 y dejaste tu dinero allí. El precio del Vanguard 500 Index Fund Admiral Shares (VFIAX) estaba en 143€, el más alto de todos los tiempos. Cayó a 68€ en 2009. El precio actual es 430,52€.",
+
+    "date6": "Julio 2024",
+    "name6": "Apple",
+    "descriptionSix": "Supón que invertiste 1000€ en Apple, cuando el precio de las acciones estaba en su nivel más alto hasta el momento, 9,05€. El precio actual es 173,07€.",
+
+    "date7": "Julio 2018",
+    "name7": "Amazon",
+    "descriptionSeven": "Supón que invertiste 1000€ en un ETF Tech Vanguard a un costo de 52€ (VITAX). El precio actual es 221,94€.",
+
+    "date8": "Julio 2022",
+    "name8": "Bitcoin",
+    "descriptionEight": "Supón que invertiste 1000€ en Bitcoin. El precio de un Bitcoin era 17.098€, luego cayó a 3.500€ por Bitcoin antes de subir a más de 60.000€ en 2021. El precio actual está por encima de 42.629€.",
+
+    "newsletter": "Boletín Informativo",
+    "newsletterP": "Recibe ahora un 20% de descuento gratuito en todos los productos en tu primera compra.",
+
+    "footerTraduction": {
+      "About": "Sobre",
+      "Careers": "Carreras",
+      "Affiliates": "Afiliados",
+      "Blog": "Blog",
+      "Press": "Prensa",
+      "Investors": "Inversores",
+      "Legal & Privacy": "Legal y Privacidad",
+      "Cookie policy": "Política de Cookies",
+      "Cookie preferences": "Preferencias de Cookies"
+    },   
+      
+    "footerTraduction2": {
+      "Browse crypto prices": "Ver precios de criptomonedas",
+      "Coinbase Bytes newsletter": "Boletín informativo Coinbase Bytes",
+      "Crypto basics": "Conceptos básicos de cripto",
+      "Tips & Tutorials": "Consejos y Tutoriales",
+      "Market Updates": "Actualizaciones del Mercado",
+      "What is Bitcoin?": "¿Qué es Bitcoin?",
+      "What is crypto?": "¿Qué es cripto?",
+      "What is a blockchain?": "¿Qué es una blockchain?",
+      "How to set up a crypto wallet": "Cómo configurar una cartera de cripto",
+      "How to send crypto": "Cómo enviar cripto"
+    },
+
+    "privacyPolicy": "Política de Privacidad",
+    "termsConditions": "Términos y Condiciones",
+
+    "adress": "Prueba, 123 East 456th Street, 0º piso, Nueva York, NY 123456",
+    "investement": "Inversión fácil",
+
+    "buttons": {
+      "subscribe": "Suscribirse",
+      "startEarning": "Comienza a ganar",
+      "tryNow": "Prueba ahora",
+      "howWorks": "¿Cómo funciona?",
+      "signIn": "Iniciar sesión",
+      "signUp": "Registrarse"
+    },
+
+    "dailyPrices": {
+      "name": "Nombre",
+      "price": "Precio",
+      "change": "Cambio",
+      "marketCap": "Capitalización de Mercado",
+      "chart": "Gráfico"
+    }
+}

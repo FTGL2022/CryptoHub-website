@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Navbar from './components/Navbar'
+import Home from './components/Home'
+import DailyPrices from './components/DailyPrices'
+import AboutUs from './components/AboutUs'
+import Services from './components/Services'
+import Signup from './components/Signup'
+import Roadmap from './components/Roadmap'
+import Newsletter from './components/Newsletter'
+import Footer from './components/Footer'
+import ScrollToTop from './components/ScrollToTop'
 
-function App() {
+
+
+const App = () => {
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <ScrollToTop />
+      <Navbar />
+      <Home />
+      <DailyPrices />
+      <AboutUs />
+      <Services />
+      <Signup />
+      <Roadmap />
+      <Newsletter />
+      <Footer />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
